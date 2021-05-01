@@ -1,0 +1,3 @@
+Projektstart: 01.05.2021
+
+Tutorial: https://pythonbasics.org/flask-sqlite/
